@@ -1,4 +1,4 @@
- water-quality-app
+
  AI Water Quality Predictor for Clean Water Access (SDG 6)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
