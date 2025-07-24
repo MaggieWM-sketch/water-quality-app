@@ -185,9 +185,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/water-quality-predictor)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/water-quality-predictor)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/water-quality-predictor)
+![GitHub stars](https://img.shields.io/github/stars/MaggieWM-sketch/water-quality-predictor)
+![GitHub forks](https://img.shields.io/github/forks/MaggieWM-sketch/water-quality-predictor)
+![GitHub issues](https://img.shields.io/github/issues/MaggieWM-sketch/water-quality-predictor)
 
 
 "Clean water is not a privilege, it's a human right. This tool helps make that right accessible to everyone."
